@@ -1,0 +1,15 @@
+{
+	"name": "alexey-pkv/php-blat",
+	"authors": [
+		{
+			"name": "Alexey Puchkov",
+			"email": "alexey.pkv@gmail.com"
+		}
+	],
+	"autoload": 
+	{
+		"files": [
+			"blat.php"
+		]
+	}
+}
