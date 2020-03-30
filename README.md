@@ -1,4 +1,4 @@
-README blat for PHP blat
+# PHP blat
 > version 1.0.0
 
 Installation:
