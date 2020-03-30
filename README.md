@@ -8,7 +8,7 @@ composer require alexey-pkv/php-blat
 ```
 
 
-A php library that adds the **blat** prefix to all php methods.
+A php library that adds the **blat** suffix to all php methods.
 
 Usage
 
