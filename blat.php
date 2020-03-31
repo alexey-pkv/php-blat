@@ -7,9 +7,6 @@ function blat_trimmer($func, $arg)
 
 
 function zend_version_blat() { return blat_trimmer(__FUNCTION__, func_get_args()); }
-function func_num_args_blat() { return blat_trimmer(__FUNCTION__, func_get_args()); }
-function func_get_arg_blat() { return blat_trimmer(__FUNCTION__, func_get_args()); }
-function func_get_args_blat() { return blat_trimmer(__FUNCTION__, func_get_args()); }
 function strlen_blat() { return blat_trimmer(__FUNCTION__, func_get_args()); }
 function strcmp_blat() { return blat_trimmer(__FUNCTION__, func_get_args()); }
 function strncmp_blat() { return blat_trimmer(__FUNCTION__, func_get_args()); }
